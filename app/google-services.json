@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420036721662",
+    "project_id": "pruebanebri3",
+    "storage_bucket": "pruebanebri3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420036721662:android:545e9566b3f5e71252deaf",
+        "android_client_info": {
+          "package_name": "com.example.formulariospantallas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxaHEQz1mVhbIF1SiMkUbJSYA3ZZD0Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
