@@ -1,3 +1,7 @@
+Tecnologias tulizadas:
+1.- Lenguaje de porgramación Kotlin.
+2.- Firebase Authentication. Esta tecnologia nos la ofrece el propio firebase, y es muy interesante sobretodo a la hora de querer trabajar con sesiones personales, como es el caso de esta aplicación.
+
 Explicación del funcionamiento de la app:
 La app es un diario personal, tiene un funcionamiento sencillo pero intuitivo. Nada más arrancar la aplicación nos encontramos con una pantalla con dos botones y el logo de la aplicación. Un botón correspondería al LOGIN y el otro sería para registrarse. 
 Todo usuario que se registre se registrará con Firebase Authentication para poder tener una sesión privada y verificada para cada usuario de la aplicación. Una vez registrado, se iniciará sesión. 
